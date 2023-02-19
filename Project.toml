@@ -2,3 +2,8 @@ name = "QuadAAATrig"
 uuid = "5046e49d-0037-4dff-8ed2-3d5b6a82c6f6"
 authors = ["lxvm <lorenzo@vanmunoz.com>"]
 version = "0.1.0"
+
+[deps]
+BaryRational = "91aaffc3-5777-4842-85b7-5d3d5d6a3494"
+FourierSeriesEvaluators = "2a892dea-6eef-4bb5-9d1c-de966c9f6db5"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
