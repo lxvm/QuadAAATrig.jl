@@ -1,0 +1,4 @@
+name = "QuadAAATrig"
+uuid = "5046e49d-0037-4dff-8ed2-3d5b6a82c6f6"
+authors = ["lxvm <lorenzo@vanmunoz.com>"]
+version = "0.1.0"
